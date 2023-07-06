@@ -24,3 +24,15 @@ Actualización
 ![image](https://github.com/dilan-flores/WEB_Veterinaria/assets/117755180/841a212f-941a-463e-b29c-8b57dd0831d3)
 
 # Módulo clientes
+
+Registro
+
+![image](https://github.com/dilan-flores/WEB_Veterinaria/assets/117755180/64ed2f48-1729-46aa-8b6c-16ce1365133b)
+
+Actualización
+
+![image](https://github.com/dilan-flores/WEB_Veterinaria/assets/117755180/49a1b921-9452-449d-92b0-0f81030cc755)
+
+Detalle Cliente
+
+![image](https://github.com/dilan-flores/WEB_Veterinaria/assets/117755180/3f2703ad-a11b-4b2a-8616-a68893b89c60)
