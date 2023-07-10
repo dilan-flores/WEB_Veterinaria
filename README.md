@@ -36,3 +36,15 @@ Actualización
 Detalle Cliente
 
 ![image](https://github.com/dilan-flores/WEB_Veterinaria/assets/117755180/3f2703ad-a11b-4b2a-8616-a68893b89c60)
+
+# Uso de Swagger
+
+Schema
+
+![image](https://github.com/dilan-flores/WEB_Veterinaria/assets/117755180/354cc5df-4ba8-4a53-a6ba-cfb1523bf0fa)
+
+Contenido
+
+![image](https://github.com/dilan-flores/WEB_Veterinaria/assets/117755180/64ebd858-4834-4bf0-bf6d-b3e94c3ea9e3)
+
+
